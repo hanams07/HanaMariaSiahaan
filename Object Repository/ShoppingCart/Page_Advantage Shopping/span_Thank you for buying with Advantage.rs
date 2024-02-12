@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Thank you for buying with Advantage</name>
+   <tag></tag>
+   <elementGuidId>f88d20ae-1341-4f63-86f6-48b823b8b93e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='orderPaymentSuccess']/h2/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.roboto-regular.ng-scope</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>15239cda-e7ce-48c4-ae7b-5b0f032b0071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-regular ng-scope</value>
+      <webElementGuid>937c1f34-c804-4238-b393-7f20f640c7fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>Thank_you_for_buying_with_Advantage</value>
+      <webElementGuid>391b679e-1998-491d-89a4-a397b3236443</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thank you for buying with Advantage</value>
+      <webElementGuid>22640857-fc3d-4ab6-ab7b-4e85ba96240e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;orderPaymentSuccess&quot;)/h2[1]/span[@class=&quot;roboto-regular ng-scope&quot;]</value>
+      <webElementGuid>401b36e6-af0d-442e-8ed5-3a87d862096a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='orderPaymentSuccess']/h2/span</value>
+      <webElementGuid>853e9142-e010-4ca8-98a0-6448f2188a93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$0.00'])[4]/following::span[1]</value>
+      <webElementGuid>2f9ca42d-23bd-41e5-997e-9b66ccd7ce15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/preceding::span[1]</value>
+      <webElementGuid>27d375c1-1daa-481a-a578-67d79cc2e93a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[2]/preceding::span[2]</value>
+      <webElementGuid>4ef4dbb0-b5f4-47f4-8f8f-b9af5784e658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thank you for buying with Advantage']/parent::*</value>
+      <webElementGuid>a5229ed6-a85b-45d1-a644-5c59fd4cb67e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/span</value>
+      <webElementGuid>536f0902-dc55-4ba5-ad8b-759a642b3447</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Thank you for buying with Advantage' or . = 'Thank you for buying with Advantage')]</value>
+      <webElementGuid>b57b0d5b-2102-411d-86b4-3dded051516c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select ProductHP ElitePad 1000 G2 Ta_18213c</name>
+   <tag></tag>
+   <elementGuidId>c932b3d1-16af-4666-a931-c7a0d7daa19c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='productListboxContactUs']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;productListboxContactUs&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9b3a2535-6d3c-42e0-96bc-24d15b1b6a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-init</name>
+      <type>Main</type>
+      <value>secModel = secSelectOptions[0]</value>
+      <webElementGuid>7e77fc38-8511-49c4-9215-ea68d92e80c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>productListboxContactUs</value>
+      <webElementGuid>884a20d8-593c-4cbb-a99c-2e881c9187fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>listbox</value>
+      <webElementGuid>4ee36834-9a1d-4382-a57b-cc428ffe301d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>secModel</value>
+      <webElementGuid>b8f4ad25-5f5f-424b-a537-737f488c01d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-options</name>
+      <type>Main</type>
+      <value>c as c.productName for c in secSelectOptions</value>
+      <webElementGuid>c8eff13e-349b-43e7-be36-15c3c29b4aeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid ng-scope in-focus</value>
+      <webElementGuid>e87dae82-0be1-4c1e-8f1a-36d90f38218d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select ProductHP ElitePad 1000 G2 TabletHP Elite x2 1011 G1 TabletHP Pro Tablet 608 G1</value>
+      <webElementGuid>989de3a4-5a40-4164-a196-5282e24a4673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;supportCover&quot;)/div[2]/sec-form[@class=&quot;ng-isolate-scope secForm&quot;]/div[@class=&quot;splitter&quot;]/div[@class=&quot;inputMargin&quot;]/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]/select[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope in-focus&quot;]</value>
+      <webElementGuid>24110936-a425-4fed-ba92-7deedc2ede21</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='productListboxContactUs']</value>
+      <webElementGuid>9b55bfdf-fcbb-4a5d-b248-10bf91dbd7d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='supportCover']/div[2]/sec-form/div/div/sec-view[2]/div/select</value>
+      <webElementGuid>cd671e5e-3d75-4555-a895-54c006f5bccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[2]/following::select[1]</value>
+      <webElementGuid>b4731141-4003-4a18-b0bb-f9e5efbb7691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTACT US'])[2]/following::select[2]</value>
+      <webElementGuid>48a5544e-b573-465f-8bb9-2aa2d145b7f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[2]/preceding::select[1]</value>
+      <webElementGuid>67d6a271-99cf-4eca-a2cc-c39fc33b734d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::select[1]</value>
+      <webElementGuid>5b18acae-c594-4e99-bf8a-1a0961ecb755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sec-view[2]/div/select</value>
+      <webElementGuid>792fd92c-fc49-4c77-bf0e-05e599bb624e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'productListboxContactUs' and (text() = 'Select ProductHP ElitePad 1000 G2 TabletHP Elite x2 1011 G1 TabletHP Pro Tablet 608 G1' or . = 'Select ProductHP ElitePad 1000 G2 TabletHP Elite x2 1011 G1 TabletHP Pro Tablet 608 G1')]</value>
+      <webElementGuid>e764bd35-edd0-4d4f-9ba2-c986920ca3fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

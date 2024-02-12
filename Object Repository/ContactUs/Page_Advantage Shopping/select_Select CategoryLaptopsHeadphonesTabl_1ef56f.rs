@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select CategoryLaptopsHeadphonesTabl_1ef56f</name>
+   <tag></tag>
+   <elementGuidId>5569a762-f57f-4c7e-8dc7-081dd7c16578</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='categoryListboxContactUs']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;categoryListboxContactUs&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e96e2d07-aec1-4dae-9479-cfcb4dca92dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-init</name>
+      <type>Main</type>
+      <value>secModel = secSelectOptions[0]</value>
+      <webElementGuid>ccff5cd8-ad4b-4edd-9dde-5405a87f0eb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>categoryListboxContactUs</value>
+      <webElementGuid>f70e5832-efe2-40d4-9464-4dc84fadfd1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>listbox</value>
+      <webElementGuid>8e50dfca-f5d7-4228-8c88-0c396eb0e32c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-model</name>
+      <type>Main</type>
+      <value>secModel</value>
+      <webElementGuid>3e123c46-83b5-48cd-88cc-f1c2734c9e68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-options</name>
+      <type>Main</type>
+      <value>c as c.categoryName for c in secSelectOptions</value>
+      <webElementGuid>f3209acd-ad4d-4250-aaa9-f031f63e29f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-pristine ng-untouched ng-valid ng-scope in-focus</value>
+      <webElementGuid>f8eea74a-bc9c-4c90-9186-0b4c05988119</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select CategoryLaptopsHeadphonesTabletsSpeakersMice</value>
+      <webElementGuid>3c22f652-9bb6-4a7a-b504-6140b721ec95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;supportCover&quot;)/div[2]/sec-form[@class=&quot;ng-isolate-scope secForm&quot;]/div[@class=&quot;splitter&quot;]/div[@class=&quot;inputMargin&quot;]/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]/select[@class=&quot;ng-pristine ng-untouched ng-valid ng-scope in-focus&quot;]</value>
+      <webElementGuid>e30c7753-3202-4069-b6ab-b0ba64efab2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='categoryListboxContactUs']</value>
+      <webElementGuid>e2ef478c-064c-452d-8002-62bda1fe0436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='supportCover']/div[2]/sec-form/div/div/sec-view/div/select</value>
+      <webElementGuid>f578d3cf-ee45-4958-b434-a573c8ee1329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CONTACT US'])[2]/following::select[1]</value>
+      <webElementGuid>8e922490-cfdc-43ba-a097-f0dd8163f782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CHAT WITH US'])[1]/following::select[1]</value>
+      <webElementGuid>a666fbfc-fd77-48dc-bd23-0edcd1139153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Category'])[2]/preceding::select[1]</value>
+      <webElementGuid>d03ce29b-3239-4094-8b1d-cafce8a4e632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[2]/preceding::select[2]</value>
+      <webElementGuid>780f5b43-b817-4246-8b9a-41fb59fcecfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>59bc4710-18cf-4e58-93d6-9cae328fd9cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'categoryListboxContactUs' and (text() = 'Select CategoryLaptopsHeadphonesTabletsSpeakersMice' or . = 'Select CategoryLaptopsHeadphonesTabletsSpeakersMice')]</value>
+      <webElementGuid>eff3ba3f-ab05-448e-ac36-a15bab50d64a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_ADD TO CART</name>
+   <tag></tag>
+   <elementGuidId>ccdac4bb-f691-45d4-8db6-89c004801059</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@name='save_to_cart']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;save_to_cart&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3c05df82-be04-4840-a2d0-cc1d58690249</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>save_to_cart</value>
+      <webElementGuid>ab64e3a0-c2d5-4fda-9daa-57bb9437e8c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-medium ng-scope</value>
+      <webElementGuid>250db606-3d9a-4ef0-a557-caaeebc83293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fdfe42e1-314e-4de3-9fbf-d777c2cc4098</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-class</name>
+      <type>Main</type>
+      <value>{ disable : product.productStatus == &quot;OutOfStock&quot; } </value>
+      <webElementGuid>f29519de-4738-48c5-a2bf-c78b4414a032</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>ADD_TO_CART</value>
+      <webElementGuid>9e1bb4e3-6158-4a8e-a92f-cae596f8d244</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-click</name>
+      <type>Main</type>
+      <value>addToCart(product.productStatus == 'OutOfStock')</value>
+      <webElementGuid>487e284c-1bd2-4f0e-87e1-a8a40aba20eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ADD TO CART</value>
+      <webElementGuid>94eb96dd-e45b-478d-b082-b3e57fe065f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;productProperties&quot;)/div[@class=&quot;fixedBtn&quot;]/button[@class=&quot;roboto-medium ng-scope&quot;]</value>
+      <webElementGuid>e3f77639-2ff5-492f-bbcc-d936f9350180</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@name='save_to_cart']</value>
+      <webElementGuid>159400c6-2113-4aa2-8be8-3671a2c259bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='productProperties']/div[4]/button</value>
+      <webElementGuid>d73d4806-e15c-424b-89de-b6123fc5b73d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$100.00'])[1]/following::button[1]</value>
+      <webElementGuid>634e90b7-205c-46ed-a598-53d3075e9a15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Warranty'])[1]/following::button[1]</value>
+      <webElementGuid>7194cd04-fa79-47f9-a9b4-45f9c43e818c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRODUCT SPECIFICATIONS'])[1]/preceding::button[1]</value>
+      <webElementGuid>f8a92d10-9e5b-4f53-bdd9-39d1d70a7232</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DISPLAY'])[1]/preceding::button[1]</value>
+      <webElementGuid>bd914590-16b3-4461-90f0-dc117a60420a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ADD TO CART']/parent::*</value>
+      <webElementGuid>6a89b4df-ea71-4c93-ab6b-9d1cd1383c2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>08ee2cb0-1205-47dc-bc87-c1e6bfb7246a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@name = 'save_to_cart' and (text() = 'ADD TO CART' or . = 'ADD TO CART')]</value>
+      <webElementGuid>cd1b0924-c104-43d7-a633-d421d3797854</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
